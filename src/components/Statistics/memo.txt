@@ -1,0 +1,6 @@
+// icon
+home:"fa-solid fa-house"
+転出:"fa-solid fa-truck-moving"
+転入:"fa-solid fa-box-open"
+画面展開："fa-solid fa-angle-right"
+upload:"fa-solid fa-cloud-arrow-up"

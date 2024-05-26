@@ -1,0 +1,164 @@
+[
+  {
+    "code": "p01",
+    "text": "マルゲリータ",
+    "image": "menu-pizza-01",
+    "priceN": 0,
+    "priceS": 1000,
+    "priceM": 1300,
+    "priceL": 1700
+  },
+  {
+    "code": "p02",
+    "text": "デラックス",
+    "image": "menu-pizza-02",
+    "priceN": 0,
+    "priceS": 1200,
+    "priceM": 1500,
+    "priceL": 1800
+  },
+  {
+    "code": "p03",
+    "text": "アメリカン",
+    "image": "menu-pizza-03",
+    "priceN": 0,
+    "priceS": 800,
+    "priceM": 1200,
+    "priceL": 1500
+  },
+  {
+    "code": "p04",
+    "text": "モッツアレラ",
+    "image": "menu-pizza-04",
+    "priceN": 0,
+    "priceS": 1200,
+    "priceM": 1500,
+    "priceL": 1800
+  },
+  {
+    "code": "p05",
+    "text": "ツナマヨ",
+    "image": "menu-pizza-05",
+    "priceN": 0,
+    "priceS": 800,
+    "priceM": 1100,
+    "priceL": 1300
+  },
+  {
+    "code": "p06",
+    "text": "シーフード",
+    "image": "menu-pizza-06",
+    "priceN": 0,
+    "priceS": 1600,
+    "priceM": 2000,
+    "priceL": 2300
+  },
+  {
+    "code": "p07",
+    "text": "ビーフとマスカルポーネ",
+    "image": "menu-pizza-07",
+    "priceN": 0,
+    "priceS": 1500,
+    "priceM": 1900,
+    "priceL": 2200
+  },
+  {
+    "code": "p08",
+    "text": "照りマヨ",
+    "image": "menu-pizza-08",
+    "priceN": 0,
+    "priceS": 1500,
+    "priceM": 1800,
+    "priceL": 2000
+  },
+  {
+    "code": "p09",
+    "text": "明太ベーコン",
+    "image": "menu-pizza-09",
+    "priceN": 0,
+    "priceS": 1300,
+    "priceM": 1600,
+    "priceL": 1800
+  },
+  {
+    "code": "p10",
+    "text": "じゃがマヨコーン",
+    "image": "menu-pizza-10",
+    "priceN": 0,
+    "priceS": 1000,
+    "priceM": 1300,
+    "priceL": 1700
+  },
+  {
+    "code": "s01",
+    "text": "サラダＡ",
+    "image": "menu-salad-01",
+    "priceN": 400,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  },
+  {
+    "code": "s02",
+    "text": "サラダＢ",
+    "image": "menu-salad-02",
+    "priceN": 500,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  },
+  {
+    "code": "s03",
+    "text": "サラダＣ",
+    "image": "menu-salad-03",
+    "priceN": 600,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  },
+  {
+    "code": "s04",
+    "text": "かぼちゃスープ",
+    "image": "menu-side-01",
+    "priceN": 300,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  },
+  {
+    "code": "s05",
+    "text": "フライドポテト",
+    "image": "menu-side-02",
+    "priceN": 450,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  },
+  {
+    "code": "s06",
+    "text": "フライドチキン",
+    "image": "menu-side-03",
+    "priceN": 550,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  },
+  {
+    "code": "s07",
+    "text": "アイス（ストロベリー）",
+    "image": "menu-side-04",
+    "priceN": 150,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  },
+  {
+    "code": "s08",
+    "text": "アイス（バニラ）",
+    "image": "menu-side-05",
+    "priceN": 150,
+    "priceS": 0,
+    "priceM": 0,
+    "priceL": 0
+  }
+]
